@@ -10,7 +10,7 @@ import re
 import numpy as np
 
 # Configuration - Set your OpenAI API key here
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "api key"
 MODEL_NAME = "gpt-4o"
 MAX_TEXT_LENGTH = 15000
 
